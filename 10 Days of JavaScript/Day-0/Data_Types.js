@@ -12,6 +12,7 @@ Convert  secondDecimal to a floating-point number (Number type), then sum it wit
 Print the concatenation of firstString and secondString on a new line using console.log. Note that firstString must be printed first.
 */
 
+
 'use strict';
 
 process.stdin.resume();

@@ -11,7 +11,6 @@ A greeting function is provided for you in the editor below. It has one paramete
 */
 
 
-
 'use strict';
 
 process.stdin.resume();
