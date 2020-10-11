@@ -63,7 +63,8 @@ function getArea(length, width) {
 **/
 function getPerimeter(length, width) {
     let perimeter;
-    perimeter = 2*(length+width)// Write your code here
+    // Write your code here
+    perimeter = 2*(length+width)
     
     return perimeter;
 }
