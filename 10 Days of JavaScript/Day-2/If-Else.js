@@ -36,6 +36,7 @@ function readLine() {
 
 function getGrade(score) {
     let grade;
+    // Write your code here
     if(score>25 && score<=30){
         grade='A';
     }
@@ -54,7 +55,6 @@ function getGrade(score) {
     else{
         grade='F';
     }
-    // Write your code here
     return grade;
 }
 
