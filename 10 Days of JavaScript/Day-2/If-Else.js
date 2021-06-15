@@ -59,6 +59,7 @@ function getGrade(score) {
 }
 
 
+
 function main() {
     const score = +(readLine());
     
